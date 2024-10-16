@@ -1,1 +1,1 @@
-Morse Code in pentegon
+Morse Code in pentagon
